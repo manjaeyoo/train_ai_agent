@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# macOS specific files
+.DS_Store
+**/.DS_Store
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code specific files
+.vscode/
+
+# PyCharm specific files
+.idea/
+*.iml
